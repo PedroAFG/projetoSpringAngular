@@ -1,0 +1,18 @@
+img {
+    width: 250px; /*largura*/
+    margin-bottom: 30px;
+}
+
+form {
+    width: 500px; /*largura*/
+    margin: 30px auto; /*margem*/
+    text-align: center; /*alinhamento central*/
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+input[type="button"] { /*alterando apenas os inputs que possuem buttons*/
+    margin-right: 10px;
+}
